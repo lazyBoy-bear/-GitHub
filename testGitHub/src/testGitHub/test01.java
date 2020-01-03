@@ -11,6 +11,7 @@ public class test01 {
 
 		System.out.println("≤‚ ‘");
 		System.out.println("hello world?/");
+		System.out.println("v3");
 	}
 
 }
