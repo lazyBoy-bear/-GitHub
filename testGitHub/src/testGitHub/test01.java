@@ -9,7 +9,7 @@ public class test01 {
 		int y=1000;
 		System.out.println(y+i);
 		System.out.println("hello world");
-
+		
 	}
 
 }
