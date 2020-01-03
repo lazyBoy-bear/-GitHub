@@ -10,6 +10,7 @@ public class test01 {
 		System.out.println(y+i);
 
 		System.out.println("≤‚ ‘");
+		System.out.println("hello world?/");
 	}
 
 }
